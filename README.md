@@ -38,6 +38,6 @@ Others: **Jupyter Notebooks, Matplotlib, MLDiff**
 Darshan Bakilana Ramesh
 
 📧 [Email](mailto:darshanbakilanaramesh@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/darshanbakilanaramesh)
+🔗 [LinkedIn](https://www.linkedin.com/in/darshanbakilanaramesh)
 
 
