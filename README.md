@@ -27,9 +27,9 @@ The combination of machine learning and formal methods creates a framework for i
 ## **Tools and Libraries**
 Languages: **Python, SMT-LIB**
 
-Libraries: **NumPy, Pandas, Scikit-learn, PyTorch, Visual Studio Code, Z3**
+Libraries: **NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Z3**
 
-Others: **Jupyter Notebooks, Matplotlib, MLDiff**
+Others: **Jupyter Notebooks, Visual Studio Code, MLDiff**
 
 ## **Thesis Document**
 [Thesis_finalreport_DarshanBR.pdf](https://github.com/user-attachments/files/19931559/Thesis_finalreport_DarshanBR.pdf)
